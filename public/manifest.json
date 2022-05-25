@@ -1,6 +1,6 @@
 {
-  "short_name": "Solid App",
-  "name": "Create Solid App Sample",
+  "short_name": "💮👑ชมรมคนเหงา🎮💘",
+  "name": "💮👑ชมรมคนเหงา🎮💘 | ชมรมของคนขี้เหงา",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#ffb6c1",
   "background_color": "#ffffff"
 }
